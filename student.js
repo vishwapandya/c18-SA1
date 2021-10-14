@@ -1,17 +1,1 @@
-class Student
-  {
-    constructor()
-    {
-     
-      
-    }
-    
-    display()
-    {
-      
-    }
-    
-  
-  }
 
-  
