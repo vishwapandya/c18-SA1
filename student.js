@@ -1,0 +1,17 @@
+class Student
+  {
+    constructor()
+    {
+     
+      
+    }
+    
+    display()
+    {
+      
+    }
+    
+  
+  }
+
+  
